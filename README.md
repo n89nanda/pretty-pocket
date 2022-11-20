@@ -8,3 +8,9 @@ When exporting data from [Pocket](https://getpocket.com/export), the output file
 
 `pretty-pocket ril_export.html`
 
+
+# How to get the html export file
+
+- Go to [Pocket Export Link](https://getpocket.com/export)
+- Click on `Export HTML file` which will download a `html` file
+- Move the export file to the same directory as `pretty-pocket`
